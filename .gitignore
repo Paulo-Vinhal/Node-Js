@@ -1,0 +1,3 @@
+# Ignorando arquivos locais que não são necessários no repositório remoto.
+
+node_modules/
